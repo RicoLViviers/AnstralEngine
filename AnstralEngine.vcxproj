@@ -137,7 +137,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_allegro5\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_android_opengl3\main.cpp" />
     <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_glfw_opengl2\main.cpp" />
     <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_glfw_opengl3\main.cpp" />
     <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_glfw_vulkan\main.cpp" />
