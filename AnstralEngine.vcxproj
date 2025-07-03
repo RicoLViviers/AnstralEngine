@@ -136,29 +136,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_allegro5\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_glfw_opengl2\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_glfw_opengl3\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_glfw_vulkan\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_glfw_wgpu\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_glut_opengl2\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_null\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_sdl2_directx11\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_sdl2_opengl2\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_sdl2_opengl3\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_sdl2_sdlrenderer2\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_sdl2_vulkan\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_sdl3_opengl3\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_sdl3_sdlgpu3\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_sdl3_sdlrenderer3\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_sdl3_vulkan\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_win32_directx10\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_win32_directx11\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_win32_directx12\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_win32_directx9\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_win32_opengl3\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\example_win32_vulkan\main.cpp" />
-    <ClCompile Include="DX3D\Include\DX3D\ImGui\examples\libs\usynergy\uSynergy.c" />
     <ClCompile Include="DX3D\Source\DX3D\Graphics\DeviceContext.cpp" />
     <ClCompile Include="DX3D\Source\DX3D\Game\Display.cpp" />
     <ClCompile Include="DX3D\Source\DX3D\Core\Base.cpp" />
@@ -176,11 +153,6 @@
     <ClCompile Include="DX3D\Source\DX3D\InputSystem\InputSystem.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DX3D\Include\DX3D\ImGui\examples\example_allegro5\imconfig_allegro5.h" />
-    <ClInclude Include="DX3D\Include\DX3D\ImGui\examples\libs\emscripten\emscripten_mainloop_stub.h" />
-    <ClInclude Include="DX3D\Include\DX3D\ImGui\examples\libs\glfw\include\GLFW\glfw3.h" />
-    <ClInclude Include="DX3D\Include\DX3D\ImGui\examples\libs\glfw\include\GLFW\glfw3native.h" />
-    <ClInclude Include="DX3D\Include\DX3D\ImGui\examples\libs\usynergy\uSynergy.h" />
     <ClInclude Include="DX3D\Include\DX3D\InputSystem\InputListener.h" />
     <ClInclude Include="DX3D\Include\DX3D\Math\Vec3.h" />
     <ClInclude Include="DX3D\Include\DX3D\Math\Vec4.h" />
